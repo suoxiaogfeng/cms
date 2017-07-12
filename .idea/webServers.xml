@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a2d406dd-cc2b-4e53-bda7-eb0587cd19d3" name="cms" url="http://feng.bjsoso.cn">
+        <fileTransfer host="feng.bjsoso.cn" port="66" rootFolder="/cms">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="66" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
